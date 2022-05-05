@@ -1,6 +1,8 @@
 <?php
 
-echo "ola mundo";
+class Usuario{
+
+}
 
 
 
